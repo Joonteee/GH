@@ -3,17 +3,17 @@
   {
     "id": 1,
     "name": "Globen",
-    "img_url": "http://www.superandy.se/wp-content/uploads/2012/05/globen.jpg"
+    "img_url": "#E74C3C"
   },
   {
     "id": 2,
     "name": "Annexet",
-    "img_url": "https://www.stockholmlive.com/assets/img/Annexet_fasad_250x250.jpg"
+    "img_url": "#1F618D"
   },
   {
     "id": 3,
     "name": "Hovet",
-    "img_url": "https://res.cloudinary.com/pvt-group09/image/upload/v1525786490/Hovet.jpg"
+    "img_url": "#1E8449"
   }
 ],
   "profile": {
