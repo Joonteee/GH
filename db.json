@@ -1,10 +1,21 @@
 {
   "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
+  {
+    "id": 1,
+    "name": "Globen",
+    "img_url": "http://www.superandy.se/wp-content/uploads/2012/05/globen.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Annexet",
+    "img_url": "https://www.stockholmlive.com/assets/img/Annexet_fasad_250x250.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Hovet",
+    "img_url": "https://res.cloudinary.com/pvt-group09/image/upload/v1525786490/Hovet.jpg"
+  }
+],
   "profile": {
     "name": "joonteee"
   }
