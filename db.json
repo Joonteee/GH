@@ -2,17 +2,17 @@
   "posts": [
   {
     "id": 1,
-    "name": "GLOBEN",
+    "name": "Ericsson Globe",
     "color": "#E74C3C"
   },
   {
     "id": 2,
-    "name": "ANNEXET",
+    "name": "Annexet",
     "color": "#1F618D"
   },
   {
     "id": 3,
-    "name": "HOVET",
+    "name": "Hovet",
     "color": "#1E8449"
   }
 ],
