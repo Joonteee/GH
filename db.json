@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Ericsson Globe",
+    "color": "#239B56"
+  },
+  {
+    "id": 2,
+    "name": "Annexet",
+    "color": "#21618C"
+  },
+  {
+    "id": 3,
+    "name": "Hovet",
+    "color": "#E74C3C"
+  }
+]
