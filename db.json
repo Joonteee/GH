@@ -2,18 +2,21 @@
   "posts": [
   {
     "id": 1,
-    "name": "Ericsson Globe",
-    "color": "#E74C3C"
+    "name": "#1F618D",
+    "color": "#E74C3C",
+    "distance": "400m"
   },
   {
     "id": 2,
     "name": "Annexet",
-    "color": "#1F618D"
+    "color": "#1F618D",
+    "distance": "300m"
   },
   {
     "id": 3,
     "name": "Hovet",
-    "color": "#1E8449"
+    "color": "#1E8449",
+    "distance": "500m"
   }
 ],
   "profile": {
